@@ -1,0 +1,55 @@
+.containerHouse{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.house{
+    
+    height: 100%;
+    width: 500px;
+    background-image: url('../../assets/casa.jpg');
+    background-repeat: no-repeat;
+    background-size: 500px 500px;
+    position: relative;
+}
+
+.lightBedroomSuper{
+    position: absolute;
+    top: 285px;
+    left: 100px;
+}
+
+.lightKitchen{
+    position: absolute;
+    top: 285px;
+    left: 375px;
+}
+
+.lightLivingRoom{
+    position: absolute;
+    top: 70px;
+    right: 150px;
+}
+
+.lightBathroom{
+    position: absolute;
+    top: 330px;
+    left: 235px;
+}
+
+.lightBedroom{
+    position: absolute;
+    top: 70px;
+    left: 90px;
+}
+
+.colorLivingRoom{
+    height: 220px;
+    width: 250px;
+    opacity: 0.4;
+    position: absolute;
+    top: 24px;
+    right: 25px;
+}
