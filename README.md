@@ -14,7 +14,7 @@
 * [Socket.io](https://socket.io/) - Biblioteca para comunicação realtime
 
 
-### Exceução aplicação
+### Execução aplicação
 
  - Backend : Instalar dependencias e executar comando run.
 
